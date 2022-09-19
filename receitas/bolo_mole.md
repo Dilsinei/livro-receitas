@@ -1,4 +1,4 @@
-# Bolo Mole
+# Bolo Mole:cake:
 
 
 
@@ -20,5 +20,4 @@
 - Despeje a massa em uma forma untada e enfarinhada.
 - Leve o bolo para assar em forno médio preaquecido por 45 minutos ou até que ele fique dourado.
 - _Como esse bolo não leva fermento, não precisa se preocupar se ele irá solar!_
-
 

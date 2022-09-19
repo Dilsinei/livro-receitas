@@ -1,6 +1,6 @@
-# Livro de Receitas :cook
+# Livro de Receitas :man_cook:
 
 Olá! Bem vindo ao meu livro de receitas.
 
-- Bolo Mole
+- Bolo Mole :cake:
 
